@@ -16,4 +16,4 @@
 
 ## Компании
 
-Список — в файле [companies.md](data/companies.md)
+Список — в файле [companies.md](docs/companies.md)
