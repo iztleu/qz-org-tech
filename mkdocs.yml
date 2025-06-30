@@ -3,3 +3,6 @@ nav:
   - Home: index.md
   - Companies: companies.md
 
+extra_css:
+  - stylesheets/custom.css
+
