@@ -1,0 +1,17 @@
+/* Стилизация таблиц */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #f9f9f9;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+}
+
+th {
+    background-color: #eee;
+    font-weight: bold;
+    text-align: left;
+}
