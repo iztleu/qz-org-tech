@@ -1,0 +1,5 @@
+site_name: QZ Org Tech Companies
+nav:
+  - Home: index.md
+  - Companies: companies.md
+
